@@ -1,4 +1,4 @@
-
+# tseitin-encoding-3cnf 
 
 实现Tseitin编码算法，将任何布尔表达式转换为3-CNF表达式
 
@@ -25,3 +25,6 @@ $$
 ![](images/unicode_out.png)
 ![](images/latex_out.png)
 
+
+## 算法
+![](images/Algorithm.png)
